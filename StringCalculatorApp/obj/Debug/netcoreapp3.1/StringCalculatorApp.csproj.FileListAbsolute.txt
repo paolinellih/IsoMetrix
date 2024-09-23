@@ -1,0 +1,16 @@
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.exe
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.deps.json
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.runtimeconfig.json
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.runtimeconfig.dev.json
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.dll
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculatorApp.pdb
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculator.dll
+C:\code\IsoMetrix\StringCalculatorApp\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.csprojAssemblyReference.cache
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.AssemblyInfoInputs.cache
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.AssemblyInfo.cs
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.csproj.CoreCompileInputs.cache
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.csproj.CopyComplete
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.dll
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.pdb
+C:\code\IsoMetrix\StringCalculatorApp\obj\Debug\netcoreapp3.1\StringCalculatorApp.genruntimeconfig.cache

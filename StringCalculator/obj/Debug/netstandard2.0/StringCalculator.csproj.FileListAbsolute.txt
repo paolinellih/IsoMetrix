@@ -1,0 +1,9 @@
+C:\code\IsoMetrix\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.deps.json
+C:\code\IsoMetrix\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.dll
+C:\code\IsoMetrix\StringCalculator\bin\Debug\netstandard2.0\StringCalculator.pdb
+C:\code\IsoMetrix\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csprojAssemblyReference.cache
+C:\code\IsoMetrix\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfoInputs.cache
+C:\code\IsoMetrix\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.AssemblyInfo.cs
+C:\code\IsoMetrix\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\code\IsoMetrix\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.dll
+C:\code\IsoMetrix\StringCalculator\obj\Debug\netstandard2.0\StringCalculator.pdb
