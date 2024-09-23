@@ -3494,11 +3494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\IsoMetrix\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
+      "projectUniqueName": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
       "projectName": "StringCalculator.Tests",
-      "projectPath": "C:\\code\\IsoMetrix\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
+      "projectPath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
       "packagesPath": "C:\\Users\\tinit\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\IsoMetrix\\StringCalculator.Tests\\obj\\",
+      "outputPath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3519,8 +3519,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.csproj": {
-              "projectPath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.csproj"
+            "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {
+              "projectPath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\StringCalculator.csproj"
             }
           }
         }

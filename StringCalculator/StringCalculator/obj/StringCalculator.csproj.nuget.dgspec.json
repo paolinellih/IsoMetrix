@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.csproj": {}
+    "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {}
   },
   "projects": {
-    "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.csproj": {
+    "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\StringCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.csproj",
+        "projectUniqueName": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
         "projectName": "StringCalculator",
-        "projectPath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.csproj",
+        "projectPath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
         "packagesPath": "C:\\Users\\tinit\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\IsoMetrix\\StringCalculator\\obj\\",
+        "outputPath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

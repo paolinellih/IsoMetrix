@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Tv6+BU9o8GFAD1EYRz3h3x/Qh5JIMIMRs+7tEsy5HVoW7D/8CKgYeemiYtXIGefGBpKnw/Y67K60La1fqwsQQ==",
+  "dgSpecHash": "tKzcqr8szWAEsJKP2hzlEQPwzf3qusScuwfgOClhXC7T/IeyfwO+iQMYxCYxGirYLVgrViyJrvgvtopSqwA+IQ==",
   "success": true,
-  "projectFilePath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator.csproj",
+  "projectFilePath": "C:\\code\\IsoMetrix\\StringCalculator\\StringCalculator\\StringCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
